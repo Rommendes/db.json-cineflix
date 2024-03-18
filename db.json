@@ -1,0 +1,30 @@
+db.json
+{
+    "videos": [
+      {
+        "id": 1,
+        "titulo": "Corações de Ferro",
+        "capa": "https://imgur.com/mrA6m4B.png",
+        "link": "https://www.youtube.com/embed/J6XqtuSCW0g?si=Sb8f43zAB8Vowudu"
+    },
+
+      {
+        "id": 2,
+        "titulo": "Um componente no espaço",
+        "capa": "https://i.imgur.com/tVapLfu.png",
+        "link": "https://www.youtube.com/embed/tv5UMTc6RcY?si=T4RNRiwVNIvvDQmr"
+      },
+      {
+        "id": 3,
+        "titulo": "O poderoso JavaScript",
+        "capa": "https://i.imgur.com/rqQn7D6.png",
+        "link": "https://www.youtube.com/embed/Qx8itZO6Vb8?si=erSFjLQohom4hNfB"
+      },
+      {
+        "id": 4,
+        "titulo": "Dart, o Caçador de Andróides",
+        "capa": "https://i.imgur.com/LvRn6fl.png",
+        "link": "https://www.youtube.com/embed/_YbZkBdVZJ0?si=AMGNej18jzfC-0Ye"
+      }
+    ]
+}
